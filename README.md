@@ -11,7 +11,7 @@ These are small projects I made using JavaScript.
 * [Calculator](https://github.com/jacobshinta/JavaScript-Projects/tree/main/Calc)
 ### Pizza Menu
 
-Simple menu used to order pizza with a variety of toppings. It gathers the input information adn calculates the price based on the user's selections.
+Simple menu used to order pizza with a variety of toppings. It gathers the input information and calculates the price based on the user's selections.
 
 ### Tic-Tac-Toe
 
